@@ -1,0 +1,22 @@
+# Python
+**/.venv/
+**/__pycache__/
+*.pyc
+
+# Environment variables
+**/.env
+
+# Weather App generated files
+forecast_chart.png
+search_history.json
+
+# Password Manager secrets
+Secure_Password_Manager/vault/
+Secure_Password_Manager/passwords.enc
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
