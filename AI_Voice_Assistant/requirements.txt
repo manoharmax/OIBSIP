@@ -1,0 +1,8 @@
+customtkinter
+SpeechRecognition
+pyttsx3
+wikipedia
+psutil
+pyjokes
+requests
+Pillow
